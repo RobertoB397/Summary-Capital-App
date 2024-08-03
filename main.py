@@ -1,5 +1,5 @@
 import requests
-3
+
 request_url = "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/eur.json"
 # Get data from web API
 response = requests.get(request_url)
